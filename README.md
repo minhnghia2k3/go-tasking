@@ -1,6 +1,6 @@
 # 🧠 Go Tasking
 
-**Go Tasking** is a simple, full-stack task management application built with Go and React. It provides secure authentication (JWT + OAuth2), task CRUD operations, and a modern DevOps workflow with Docker, Terraform, and CI/CD.
+**Go Tasking** is a simple, full-stack task management application built with Go and React (Vite). It provides secure authentication (JWT + OAuth2), task CRUD operations, and a modern DevOps workflow with Docker, Terraform, and CI/CD.
 
 ---
 
