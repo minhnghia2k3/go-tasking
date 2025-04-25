@@ -76,5 +76,5 @@ task-manager/
 
 ## ✅ License
 
-MIT License.
+MIT License
 
